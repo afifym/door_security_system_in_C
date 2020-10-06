@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1585002570 source:c:\users\mohamed\desktop\avr\eeprom\fuse.c
+	<avr/io.h>
+
+1582065229 source:c:\users\mohamed\desktop\avr\eeprom\lcd_4bit\lcd.c
+	"lcd.h"
+
+1582064640 c:\users\mohamed\desktop\avr\eeprom\lcd_4bit\lcd.h
+	"std_types.h"
+	"common_macros.h"
+	"micro_config.h"
+
+1568960028 c:\users\mohamed\desktop\avr\eeprom\lcd_4bit\std_types.h
+
+1568960036 c:\users\mohamed\desktop\avr\eeprom\lcd_4bit\common_macros.h
+
+1568960022 c:\users\mohamed\desktop\avr\eeprom\lcd_4bit\micro_config.h
+	<avr/io.h>
+	<avr/interrupt.h>
+	<util/delay.h>
+
+1582065629 source:c:\users\mohamed\desktop\avr\eeprom\lcd_4bit\main_lcd.c
+	<avr/io.h>
+	<avr/delay.h>
+
+1585265554 source:c:\users\mohamed\desktop\avr\eeprom\main.c
+	<avr/io.h>
+	<avr/delay.h>
+
